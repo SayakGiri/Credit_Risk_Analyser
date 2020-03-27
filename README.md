@@ -1,0 +1,2 @@
+# Credit_Risk_Analyser
+This project aims at building a classification model to predict whether a person is going to be a defaulter or not based on various parameters like age, income , education, marital status etc. This helps the banks to perform credit risk analysis i.e. possibility of the borrower's repayment failure and the loss caused to the financer when the borrower does not repay the contractual loan obligations.
